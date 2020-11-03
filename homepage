@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-color: lavenderblush;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: pink;
+}
+
+div {
+height: 100px;
+  width: 30%;
+  padding: 30px;
+  border: 1px solid #4CAF50;
+}
+
+.center {
+  padding: 70px 0;
+  border: 3px solid pink;
+  text-align: center;
+}
+
+</style>
+
+</head>
+<body>
+
+<center><h1>My HomePage</h1><center>
+
+<ul>
+  <li><a class="active" href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/homep.html">My HomePage</a></li>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/biodatap.html">My Biodata Page</a></li>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/galleryhtml.html">My Gallery</a></li>
+</ul>
+
+<h2></h2>
+
+<div class="center">
+    <p> Hyperlink Weekly Tasks</p>
+	<p> Created by Arinah Arifah</p>
+	<p> N5IM1105D</p>
+</div>
+
+
+</body>
+</html>
