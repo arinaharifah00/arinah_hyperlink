@@ -56,9 +56,9 @@ height: 100px;
 <center><h1>My HomePage</h1><center>
 
 <ul>
-  <li><a class="active" href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/homep.html">My HomePage</a></li>
-  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/biodatap.html">My Biodata Page</a></li>
-  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/galleryhtml.html">My Gallery</a></li>
+  <li><a class="active" href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/My%20HomePage.html">My HomePage</a></li>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/My%20Biodata%20Page.html">My Biodata Page</a></li>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/My%20Gallery.html">My Gallery</a></li>
 </ul>
 
 <h2></h2>
