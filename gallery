@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+body {
+  background-color: lavenderblush;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: pink;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid deeppink;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid violet;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+<title>My Gallery</title>
+
+</style>
+
+</head>
+
+<body>
+
+<center><h1>My Gallery</h1></center>
+
+<ul>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/homep.html">My HomePage</a></li>
+  <li><a href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/biodatap.html">My Biodata Page</a></li>
+  <li><a class="active" href="file:///C:/Users/ArinahArifah/OneDrive/Documents/SEM%205%20SEPT%2020-%20FEB%2021/IMD%20311/HTML/gallery.html">My Gallery</a></li>
+</ul>
+
+<div class="gallery">
+  <a target="_self" href="https://www.facebook.com/photo.php?fbid=1094886454230634&set=pb.100011278694064.-2207520000..&type=3&theater">
+    <img src="https://scontent.fmkz1-1.fna.fbcdn.net/v/t1.0-9/p720x720/94572331_1094886457563967_4425666410697457664_o.jpg?_nc_cat=106&ccb=2&_nc_sid=85a577&_nc_ohc=qeaKyJ-B8UgAX-9PhFG&_nc_ht=scontent.fmkz1-1.fna&tp=6&oh=6ce4463cd46dedcc1f7a7a4983c4580b&oe=5FC4C1F3" alt="Facebook Photo" width="600" height="400">
+  </a>
+  <div class="desc">Facebook Photo</div>
+</div>
+
+<div class="gallery">
+  <a target="_self" href="https://www.instagram.com/arinahmoshi_/">
+    <img src="C:\Users\ArinahArifah\Downloads\123267269_367258431207514_1163777261851708156_n.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Instagram Photo</div>
+</div>
+
+<div class="gallery">
+  <a target="_self" href="https://www.instagram.com/arinahmoshi_/">
+    <img src="C:\Users\ArinahArifah\Downloads\123301289_351438909253250_6266182927238000991_n.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Instagram photo</div>
+</div>
+
+<div class="gallery">
+  <a target="_self" href="https://www.instagram.com/arinahmoshi_/">
+    <img src="C:\Users\ArinahArifah\Downloads\123246410_1095683797554877_4196910389321076189_n.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Instagram Photo</div>
+</div>
+
+<div class="gallery">
+  <a target="_self" href="https://www.instagram.com/arinahmoshi_/">
+    <img src="C:\Users\ArinahArifah\Downloads\123298831_164844501946077_8688965732610532098_n.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Instagram Photo</div>
+</div>
+
+</body>
+
+</html>
